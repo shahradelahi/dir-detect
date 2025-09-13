@@ -1,6 +1,6 @@
 {
   "name": "dir-detect",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A tiny and simple package for detecting the direction of a locale.",
   "keywords": [
     "rtl",
